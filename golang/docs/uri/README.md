@@ -19,5 +19,10 @@ cd golang/cmd/uri/<difficulty level>/<question number>
 go run main.go
 ```
 
+To find the wording of the question:
+```
+https://www.urionlinejudge.com.br/judge/en/problems/view/<question number>
+```
+
 ## License
 [MIT](../../../LICENSE)
